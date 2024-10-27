@@ -228,23 +228,23 @@ section{
     flex-direction: column;
 }
 
-.rodape{
+.social{
     text-align: center;
     display: inline;
 }
 
-.rodape .share{
+.social .share{
     padding: 1rem 0;
 }
 
-.rodape .share img {
+.social .share img {
     margin: 0.3rem;
     cursor: pointer;
     border-radius: 50%;
     padding: 1rem;
 }
 
-.rodape .share img:hover{
+.social .share img:hover{
     background-color: var(--main-color);
 }
 
